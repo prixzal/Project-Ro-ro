@@ -1,0 +1,7 @@
+numpy
+sounddevice
+webrtcvad
+openai-whisper
+scipy
+pyttsx3
+llama-cpp-python
