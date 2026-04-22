@@ -1,0 +1,11 @@
+# Python virtual environments
+roro-env/
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ExecuTorch temporary build files
+cmake-out/
