@@ -1,0 +1,10 @@
+[project]
+name = "roro"
+version = "0.1.0"
+description = "Local AI Voice Assistant"
+dependencies = [
+    "numpy",
+]
+
+[tool.setuptools]
+packages = ["backend"]
